@@ -1,0 +1,72 @@
+[33mcommit 01e1c44a65572b8eefcbb852a1948c09a3374071[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Abror Abduganiev <developabror@gmail.com>
+Date:   Thu Jun 6 16:05:19 2024 +0500
+
+    http request
+
+[33mcommit 531315aafd44ee3f82030ae446efd43b0f414007[m
+Merge: bf08d98 3acf70e
+Author: Abror Abduganiev <developabror@gmail.com>
+Date:   Tue Jun 4 17:44:05 2024 +0500
+
+    currency api
+
+[33mcommit 3acf70ec0162bf1373d321a467923ffb8d6a8477[m
+Author: Abror Abduganiev <developabror@gmail.com>
+Date:   Tue Jun 4 17:36:21 2024 +0500
+
+    currency
+
+[33mcommit bf08d98c6621869dffcec340a9824a4bd8c9d5a0[m
+Author: Abror Abduganiev <developabror@gmail.com>
+Date:   Thu May 30 15:06:35 2024 +0500
+
+    asd
+
+[33mcommit 2b85e4cac0f1352c3381a5a17c17af45665bc001[m
+Author: Abror Abduganiev <developabror@gmail.com>
+Date:   Tue May 28 18:02:55 2024 +0500
+
+    streams
+
+[33mcommit 0ff8f274bc4568ff461ab16ff1779e1c4fc0b8b5[m
+Author: Abror Abduganiev <developabror@gmail.com>
+Date:   Sat May 25 18:18:43 2024 +0500
+
+    save file to json
+
+[33mcommit 34959a48df8775772aa565def877f28c6bef9c51[m
+Merge: 2bbe806 a46dfec
+Author: Abror Abduganiev <161047703+developabror@users.noreply.github.com>
+Date:   Thu May 23 18:19:36 2024 +0500
+
+    Merge pull request #2 from developabror/dev
+    
+    lombok and build tools
+
+[33mcommit a46dfec51cbb22db877f4b3ade4d053a2df7b020[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: Abror Abduganiev <developabror@gmail.com>
+Date:   Thu May 23 18:13:07 2024 +0500
+
+    lombok and build tools
+
+[33mcommit 2bbe8069b0b199754c0b205de2763c315496c131[m
+Merge: a415527 848dc22
+Author: Abror Abduganiev <161047703+developabror@users.noreply.github.com>
+Date:   Thu May 23 15:49:34 2024 +0500
+
+    Merge pull request #1 from developabror/dev
+    
+    gmail media send
+
+[33mcommit 848dc22a14f73732832e456f159b17e896c9cdd2[m
+Author: Abror Abduganiev <developabror@gmail.com>
+Date:   Thu May 23 15:41:59 2024 +0500
+
+    gmail media send
+
+[33mcommit a4155272b21825c511d012557eaac061633fe80e[m
+Author: Abror Abduganiev <developabror@gmail.com>
+Date:   Thu May 23 09:02:07 2024 +0500
+
+    maven app
